@@ -1,0 +1,13 @@
+# Sample Transaction 1
+{
+    "sender": "Lonestar",
+    "reciever": "TobN5041",
+    "amount": 10
+}
+
+# Sample Transaction 2
+{
+    "sender": "Lonestar",
+    "reciever": "TbiN2180",
+    "amount": 10
+}
